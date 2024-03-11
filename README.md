@@ -4,7 +4,7 @@
 </h3>
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/ValisherBotirov/readme-typing-svg">
+    <a href="https://github.com/Mirzayev/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
@@ -13,9 +13,9 @@
 
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/ValisherBotirov -->
+<!-- Badges template - https://github.com/Mirzayev -->
 <p align="center">
-    <a href="https://github.com/ValisherBotirov">
+    <a href="https://github.com/Mirzayev">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/valisher-botirov-1a8a49232//">
