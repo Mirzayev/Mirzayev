@@ -18,9 +18,9 @@
     <a href="https://github.com/Mirzayev">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/valisher-botirov-1a8a49232//">
+    <a href="https://www.linkedin.com/in/temurbek-mirzayev-387899305/">
         <img alt="Linkedin"
-             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/temurbek-mirzayev-387899305/)"></a>
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/18722292/valisher-botirov">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
