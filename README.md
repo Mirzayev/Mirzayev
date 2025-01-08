@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/temurbek-mirzayev-387899305/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/18722292/valisher-botirov">
+    <a href="https://stackoverflow.com/users/23193664/temurbek-mirzayev">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100072583474829">
